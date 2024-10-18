@@ -25,7 +25,6 @@ int main() {
         printf("%d\n", fibonacci(i));
 	printf("----\n");
     }
-	free(n);
 
 
 

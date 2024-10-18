@@ -1,10 +1,12 @@
 {
     "deallocations": [
         {
+            "function_name": "main",
             "line_number": 19,
             "variable_name": "x"
         },
         {
+            "function_name": "main",
             "line_number": 26,
             "variable_name": "n"
         }
